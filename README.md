@@ -1,4 +1,4 @@
 # Machine-Learning
 
 * [QA](QA/)
-* [Certificate](certificate/)
+* [Certificate](Certificate/)
