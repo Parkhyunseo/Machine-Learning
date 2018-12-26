@@ -1,7 +1,4 @@
 # Machine-Learning
 
-## Note
-
-## QA
-
-## Certificate
+* [QA](QA/)
+* [Certificate](certificate/)
